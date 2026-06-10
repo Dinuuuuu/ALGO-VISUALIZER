@@ -17,4 +17,4 @@ A Python Tkinter based Sorting Visualizer for DSA algorithms.
 
 ```bash
 python VISUALIZER.py
---- 
+
