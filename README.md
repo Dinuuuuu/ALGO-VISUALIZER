@@ -25,7 +25,8 @@ Dinesh Chell
 
 ## Screenshot
 
-<img width="749" height="434" alt="Screenshot 2026-06-10 235704" src="https://github.com/user-attachments/assets/b8519f9c-b5c1-4c4c-a5dd-74e0b4aa16dd" />
+<img width="747" height="424" alt="image" src="https://github.com/user-attachments/assets/61441cd7-6a51-46a0-aa08-e15570528fe0" />
+
 
 
 
